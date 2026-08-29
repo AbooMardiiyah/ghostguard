@@ -34,7 +34,7 @@ export default function Integrations() {
   const connectOdoo = async () => {
     setOdooBusy(true)
     try {
-      const conn = await api.odooConnect() as Record<string, unknown>
+      const conn = await api.odooConnect() as unknown as Record<string, unknown>
       if (conn.connected) {
         setOdooConnected(true)
         setOdooMessage(conn.message as string)
