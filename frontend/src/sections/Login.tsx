@@ -17,7 +17,7 @@ export default function Login({ onLogin }: { onLogin: () => void }) {
         <div className="mt-6 space-y-3">
           <div className="rounded-lg border border-zinc-800 bg-zinc-950 px-3 py-2.5">
             <div className="text-[10px] uppercase tracking-wider text-zinc-600">Email</div>
-            <div className="text-sm text-zinc-300">hamzattiamiyu@gmail.com</div>
+            <div className="text-sm text-zinc-300">auditor@sterlingdist.com</div>
           </div>
           <div className="rounded-lg border border-zinc-800 bg-zinc-950 px-3 py-2.5">
             <div className="text-[10px] uppercase tracking-wider text-zinc-600">Role</div>

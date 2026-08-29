@@ -58,7 +58,7 @@ export default function Shell({ active, onNavigate, onSignOut, children }: Props
             <div className="text-[11px] text-zinc-500">Dojah test environment</div>
           </div>
           <div className="mt-3 flex items-center justify-between">
-            <span className="text-xs text-zinc-400">👤 Hamzat Tiamiyu</span>
+            <span className="text-xs text-zinc-400">👤 A. Danjuma</span>
             <button onClick={onSignOut} className="text-xs text-zinc-600 hover:text-zinc-300">
               Sign out
             </button>
