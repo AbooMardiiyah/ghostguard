@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+backend/.env
+
+# Database
+backend/data/db/*.db
+backend/data/db/*.db-shm
+backend/data/db/*.db-wal
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.pytest_cache/
+backend/.pytest_cache/
+
+# Presentation files (uploaded separately)
+*.pptx
+*.pdf
+
+# Uploads
+backend/data/uploads/

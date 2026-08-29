@@ -1,0 +1,4 @@
+employee_id,full_name,department,date_terminated,reason
+EMP-037,Musa Ibrahim,Operations,2026-04-15,resignation
+EMP-041,Blessing Effiong,Admin,2026-01-31,contract_end
+EMP-042,Dayo Martins,Sales,2025-11-15,resignation

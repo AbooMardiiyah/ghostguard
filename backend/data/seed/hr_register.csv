@@ -1,0 +1,40 @@
+employee_id,full_name,department,position,status
+EMP-001,Oluwaseun Adeyemi,Management,Managing Director,active
+EMP-002,Ngozi Eze,Management,Operations Director,active
+EMP-003,Babajide Ogunleye,Management,Finance Director,active
+EMP-004,Amina Abdullahi,Finance,Senior Accountant,active
+EMP-005,Chinedu Okafor,Sales,Senior Sales Manager,active
+EMP-006,Funmilayo Adesanya,Sales,Sales Executive,active
+EMP-007,Emeka Nwankwo,Sales,Sales Executive,active
+EMP-008,Aisha Bello,HR,HR Manager,active
+EMP-009,Tobiloba Adegoke,IT,IT Manager,active
+EMP-010,Halima Sule,Operations,Operations Manager,active
+EMP-011,Obinna Ikechukwu,Sales,Sales Representative,active
+EMP-012,Folashade Bankole,Sales,Sales Representative,active
+EMP-013,Uche Obi,Sales,Sales Representative,active
+EMP-014,Rasheed Lawal,Sales,Sales Representative,active
+EMP-015,Bola Oladipo,Operations,Logistics Coordinator,active
+EMP-016,Ibrahim Danjuma,Operations,Warehouse Supervisor,active
+EMP-017,Chiamaka Agu,Operations,Fleet Manager,active
+EMP-018,Segun Alabi,Operations,Dispatch Officer,active
+EMP-019,Precious Okonkwo,Operations,Inventory Clerk,active
+EMP-020,Yinka Omotoso,Finance,Accounts Officer,active
+EMP-021,Chidinma Nwosu,Finance,Payroll Clerk,active
+EMP-022,Abdulrazaq Garba,Logistics,Logistics Officer,active
+EMP-023,Olumide Falade,Logistics,Delivery Driver,active
+EMP-024,Zainab Mohammed,Logistics,Delivery Driver,active
+EMP-025,Kenneth Eze,Logistics,Delivery Driver,active
+EMP-026,Adebayo Salami,Logistics,Supply Chain Analyst,active
+EMP-027,Grace Adekunle,Admin,Office Manager,active
+EMP-028,Sani Musa,Admin,Office Assistant,active
+EMP-029,Temitope Ogunyemi,Admin,Receptionist,active
+EMP-030,Ifeanyi Okoro,IT,Software Developer,active
+EMP-031,Rukayat Adeyinka,IT,Systems Administrator,active
+EMP-032,Samuel Ogundele,HR,HR Officer,active
+EMP-033,Yusuf Bello,Sales,Sales Executive,active
+EMP-034,Fatima Bello,HR,Training Coordinator,active
+EMP-035,Adewale Oni,Operations,Quality Control Officer,active
+EMP-036,Adaeze Okafor,Sales,Sales Associate,active
+EMP-038,Jane Smith,Admin,Administrative Officer,active
+EMP-039,Tunde Bakare,Finance,Payroll Officer,active
+EMP-040,Kola Adeyemi,Sales,Field Sales Rep,active
