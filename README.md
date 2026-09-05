@@ -2,7 +2,7 @@
 
 **Payroll fraud is stopped before the money moves, not found in next year's audit.**
 
-GhostGuard sits between your HR and finance systems and the payment file. It scores every employee, blocks what fails, and hands a human the evidence to decide. Built for the 10Alytics Business AI BuildFest 2026 (Track 5: AI Automation & Integrations, Case Study 4: AI Operations Assistant).
+GhostGuard sits between your HR and finance systems and the payment file. It scores every employee, blocks what fails, and hands a human the evidence to decide.
 
 ## The Problem
 
